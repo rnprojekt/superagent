@@ -63,5 +63,8 @@
   "main": "./lib/node/index.js",
   "engines": {
     "node": ">= 0.12"
+  },
+  "jspm": {
+    "main": "./lib/client.js"
   }
 }
